@@ -49,6 +49,6 @@ This will first process the pdf with DocumentAI and then pass the extracted text
 
 * **Model tuning** We used the default configuration of Gemini, but we might be able to improve quality of the output by tuning the hyperparameters.
 
-* **Tailoring the output information.** Domain experts should be consulted to identify precisely the kind of information that is necessary to extract. Then the prompt and output fields could be tailored accordingly.
+* **Tailoring the information extraction.** Domain experts should be consulted to identify precisely the kind of information that is necessary to extract. Then the prompt and output fields could be tailored accordingly. In fact, with examples of good outputs, we could experiment with few-shot prompting, given Gemini's context window is so large.
 
 * **Benchmarking other LLMs.** Our solution is designed to work with Google's Gemini series. One could instead use a model-agnostic framework like Langchain, enabling other LLMs to be plugged in and compared on their performance.
