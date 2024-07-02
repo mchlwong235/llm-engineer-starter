@@ -1,4 +1,22 @@
 # Please include any .idea folders if you use Pycharm
+__pycache__/
+.venv
+.vscode
+
+# Distribution and packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
 
 # Env Vars
 **/.env

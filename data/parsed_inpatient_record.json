@@ -1,0 +1,82 @@
+[
+    {
+        "description": "Bilateral screening mammogram reveals a focal asymmetry in the right breast, prompting further diagnostic imaging. No concerns in the left breast. ",
+        "date": "04-29-2024",
+        "diagnoses": "Focal asymmetry in the right breast",
+        "medical_findings": "Focal asymmetry in the right breast. ",
+        "follow_up_actions": "Diagnostic imaging recommended for the right breast. ",
+        "new_orders": "Diagnostic imaging of the right breast"
+    },
+    {
+        "description": "Right diagnostic mammogram and ultrasound showed a persistent mass on spot compression. A hypoechoic mass with irregular margins, measuring 1.2 x 0.3 x 0.7 cm, was observed at the 7 o'clock position, 5 cm from the nipple. No axillary adenopathy was evident. ",
+        "date": "07-21-2023",
+        "diagnoses": "Hypoechoic mass in the right breast. ",
+        "medical_findings": "Hypoechoic mass with irregular margins (1.2 x 0.3 x 0.7 cm) at 7 o'clock position, 5 cm from the nipple in the right breast. No axillary adenopathy. ",
+        "follow_up_actions": "Ultrasound-guided right breast biopsy recommended. ",
+        "new_orders": "Ultrasound-guided right breast biopsy"
+    },
+    {
+        "description": "Ultrasound-guided right breast biopsy performed. Pathology revealed benign breast tissue. The mass was not able to be reproduced at the time of biopsy. ",
+        "date": "07-28-2023",
+        "diagnoses": "Benign breast tissue",
+        "medical_findings": "Benign breast tissue. ",
+        "follow_up_actions": "None",
+        "new_orders": "None"
+    },
+    {
+        "description": "Right diagnostic mammogram (3D tomosynthesis) performed. The previously identified irregular mass could not be reproduced. ",
+        "date": "08-10-2023",
+        "diagnoses": "Probably benign",
+        "medical_findings": "The previously described irregular mass could not be reproduced. ",
+        "follow_up_actions": "Follow-up diagnostic mammogram in 6 months. Diagnostic breast ultrasound if needed. ",
+        "new_orders": "Follow-up diagnostic mammogram (3D tomosynthesis) in 6 months. Diagnostic breast ultrasound if needed. "
+    },
+    {
+        "description": "Right diagnostic mammogram and ultrasound performed. Mammogram showed a 1.5 x 1.3 cm focal asymmetry in the posterior third of the lower outer quadrant of the right breast. Ultrasound showed a heterogeneous hypoechoic mass with indistinct margins measuring 1.4 x 0.7 x 1.2 cm at the 8 o'clock position, 8 cm from the nipple. A lymph node with mild cortical thickening measuring 0.4 cm was also observed. ",
+        "diagnoses": "Heterogeneous hypoechoic mass in the right breast. Lymph node with mild cortical thickening. ",
+        "date": "02-16-2024",
+        "medical_findings": "1.5 x 1.3 cm focal asymmetry in the posterior third of the lower outer quadrant of the right breast. Heterogeneous hypoechoic mass with indistinct margins measuring 1.4 x 0.7 x 1.2 cm at the 8 o'clock position, 8 cm from the nipple. Lymph node with mild cortical thickening measuring 0.4 cm. ",
+        "follow_up_actions": "Ultrasound-guided breast biopsy recommended for 2 sites: at 8:00 and axilla. Stereotactic breast biopsy should be reattempted if the area of interest does not correspond to the spot CC finding. ",
+        "new_orders": "Ultrasound-guided breast biopsy (2 sites: at 8:00 and axilla). Stereotactic breast biopsy should be reattempted if the area of interest does not correspond to the spot CC finding. "
+    },
+    {
+        "description": "Ultrasound-guided core needle biopsy of the right breast performed. Repeat imaging through the axillary region prior to the biopsy did not reveal any cortical thickening or hilar effacement. Axillary biopsy was not performed. ",
+        "date": "02-23-2024",
+        "diagnoses": "Same, pending radiographic pathologic correlation",
+        "medical_findings": "Biopsy marker consistent with the previous area identified in the posterior third of the right breast. No cortical thickening or hilar effacement seen in the axillary region on repeat imaging. ",
+        "follow_up_actions": "Follow-up with physician for surgical consultation. Bilateral diagnostic breast MRI may be considered. ",
+        "new_orders": "None"
+    },
+    {
+        "description": "Pathology report reviewed. Grade 1 invasive ductal carcinoma with associated grade 1 ductal carcinoma in situ was identified. The tumor was ER+, PR+, Her2-, and Ki67 10-20%. ",
+        "diagnoses": "Invasive ductal carcinoma, grade 1. Ductal carcinoma in situ, grade 1. ",
+        "date": "02-27-2024",
+        "medical_findings": "Invasive ductal carcinoma, Nottingham grade 1, measuring up to 9 mm. Associated ductal carcinoma in situ (DCIS), cribriform and micropapillary type, nuclear grade 1. Estrogen Receptor (ER): Positive (greater than 90% nuclear positivity with strong staining intensity). Progesterone Receptor (PR): Positive (greater than 90% nuclear positivity with strong staining intensity). Ki-67: Approximately 10-20%. HER-2 by IHC: Negative (score 1+). HER-2 by FISH: Negative. ",
+        "follow_up_actions": "Follow-up with physician for surgical consultation. Bilateral diagnostic breast MRI may be considered. ",
+        "new_orders": "None"
+    },
+    {
+        "description": "Surgical oncology consultation. Patient presented for discussion of newly diagnosed right breast cancer. ",
+        "date": "03-12-2024",
+        "diagnoses": "Malignant neoplasm of lower-outer quadrant of right breast, estrogen receptor positive. Clinical stage: T1cN0M0, Stage IA. ",
+        "medical_findings": "1.5 cm grade 1 invasive ductal carcinoma with associated grade 1 ductal carcinoma in situ in the right breast, ER+, PR+, Her2-, Ki67 10-20%. Clinical staging: T1CN0M0, Stage IA. No palpable adenopathy. ",
+        "new_orders": "Genetic testing. Bilateral breast MRI. Referral to medical oncology and plastic surgery. Bilateral simple mastectomy, right axillary sentinel lymph node biopsy, possible right axillary lymph node dissection, and immediate reconstruction. ",
+        "follow_up_actions": "Genetic testing and counseling completed. Bilateral breast MRI scheduled. Referral to medical oncology and plastic surgery placed. Patient to follow-up after surgery. "
+    },
+    {
+        "description": "Bilateral breast MRI performed. An enhancing mass measuring 2 x 0.7 x 1.5 cm was observed in the lower outer right breast at posterior depth. The biopsy clip was in the appropriate position. Linear non-mass enhancement measuring 1.1 cm was also seen. Prominent low level 1 axillary lymph node conglomerate measuring about 1.3 cm was noted. No suspicious findings were seen in the left breast or axilla. ",
+        "diagnoses": "Enhancing mass in the lower outer right breast. Linear non-mass enhancement in the upper central right breast. Prominent low right conglomerate axillary nodes, level 1. ",
+        "date": "03-22-2024",
+        "medical_findings": "Enhancing mass (2 x 0.7 x 1.5 cm) in the lower outer right breast at posterior depth. Biopsy clip in appropriate position. Linear non-mass enhancement (1.1 cm). Prominent low level 1 axillary lymph node conglomerate (1.3 cm). No suspicious findings in the left breast or axilla. ",
+        "new_orders": "MRI-guided breast biopsy. Surgical consultation. ",
+        "follow_up_actions": "MRI-guided breast biopsy recommended. Surgical consultation recommended. "
+    },
+    {
+        "description": "Hematology and oncology consultation. Patient presented for new patient consultation of right breast cancer. ",
+        "date": "03-27-2024",
+        "diagnoses": "Infiltrating ductal carcinoma of right breast. ",
+        "medical_findings": "Invasive ductal carcinoma, grade 1, ER+, PR+, Her2 negative, Ki67 10-20%. Clinically T1cN0, stage IA. ",
+        "new_orders": "Oncotype DX testing (post-operative). Adjuvant endocrine therapy (tamoxifen initially, then transition to another therapy once post-menopausal, depending on Oncotype DX results). Biopsy of the additional 1.1 cm linear non-mass enhancement area on the right breast. Referral to genetics. ",
+        "follow_up_actions": "Oncotype DX testing recommended post-operatively. Adjuvant endocrine therapy recommended. Patient to follow-up after surgery. "
+    }
+]
